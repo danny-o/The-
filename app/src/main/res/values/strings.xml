@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">The Mic</string>
+    <string name="instructions">
+        1. Choose your favorite song from your device \n
+        2. Extract vocals and instrumentals \n
+        3. Record your own version of the song
+    </string>
+</resources>
